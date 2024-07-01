@@ -1,0 +1,29 @@
+[
+    {
+        "nomeProduto":"Abominable Hoodie",
+        "tamanho" : "XS",
+        "cor" : "Blue",
+        "quantidade" : 3
+    },
+
+    {
+        "nomeProduto":"Augusta Pullover Jacket",
+        "tamanho" : "M",
+        "cor" : "Orange",
+        "quantidade" : 2
+    },
+
+    {
+        "nomeProduto":"Ingrid Running Jacket",
+        "tamanho" : "XL",
+        "cor" : "Orange",
+        "quantidade" : 5
+    },
+
+    {
+        "nomeProduto":"Aero Daily Fitness Tee",
+        "tamanho" : "S",
+        "cor" : "Black",
+        "quantidade" : 2
+    }
+]
